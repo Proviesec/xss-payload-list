@@ -10,3 +10,8 @@
 :star: Star us on GitHub — it motivates a lot! :star:
 
 If you have any XSS payload, just create a PullRequest. 
+
+# File Descriptions
+
+- XSS-polyglot.txt
+A JavaScript Polyglot is a Cross Site Scripting (XSS) vector that is executable within various injection contexts in its raw form, or a piece of code that can be executed in multiple contexts in the application.
