@@ -44,3 +44,5 @@ Rules To Find XSS
     
 10: Injecting HTML 5 Based Payload
     
+
+## Example 
