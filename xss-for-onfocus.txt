@@ -1,0 +1,3 @@
+alert(1)//
+%22write('<script>alert(1)</script>')%22 
+alert;throw 1
