@@ -11,6 +11,10 @@
 
 If you have any XSS payload, just create a PullRequest. 
 
+
+# Example 
+https://medium.com/p/92ac1180e0d0
+
 # File Descriptions
 
 - XSS-polyglot.txt
@@ -45,5 +49,3 @@ Rules To Find XSS
 10: Injecting HTML 5 Based Payload
     
 
-# Example 
-Picture
