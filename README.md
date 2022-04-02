@@ -12,7 +12,7 @@
 If you have any XSS payload, just create a PullRequest. 
 
 
-# Example 
+# Write-Ups 
 https://medium.com/p/92ac1180e0d0
 
 # File Descriptions
@@ -49,6 +49,3 @@ Rules To Find XSS
 10: Injecting HTML 5 Based Payload
     
 
-# Links
-1. 
-2. 
