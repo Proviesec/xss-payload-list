@@ -50,3 +50,5 @@ Rules To Find XSS
     
 
 # Links
+1. 
+2. 
