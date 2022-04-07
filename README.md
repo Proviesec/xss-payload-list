@@ -17,6 +17,8 @@ https://medium.com/p/92ac1180e0d0
 
 # Todos 
 
+- [ ] XSS for url fields
+- [ ] XSS for number fields
 
 # File Descriptions
 
