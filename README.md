@@ -17,8 +17,9 @@ https://medium.com/p/92ac1180e0d0
 
 # Todos 
 
-- [ ] XSS for url fields
-- [ ] XSS for number fields
+- [ ] XSS payloads for url fields
+- [ ] XSS payloads for number fields
+- [ ] XSS payloads for a href
 
 # File Descriptions
 
