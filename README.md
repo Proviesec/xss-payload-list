@@ -60,3 +60,4 @@ Rules To Find XSS
 
 - https://hackerone.com/reports/1342009 
 - https://hackerone.com/reports/1416672 
+- https://hackerone.com/reports/1527284 
