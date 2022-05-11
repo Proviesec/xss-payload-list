@@ -62,4 +62,5 @@ Rules To Find XSS
 - https://hackerone.com/reports/1416672 
 - https://hackerone.com/reports/1527284 
 
-Disclaimer: DONT BE A JERK! Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
+# Disclaimer: DONT BE A JERK! 
+Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
