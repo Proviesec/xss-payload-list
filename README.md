@@ -22,7 +22,6 @@ https://medium.com/p/92ac1180e0d0
 - [ ] XSS payloads for number fields
 - [ ] XSS payloads for a href
 - [ ] XSS for anker 
-- [ ] Tipps
 
 # File Descriptions
 
