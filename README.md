@@ -20,6 +20,7 @@ https://medium.com/p/92ac1180e0d0
 - [ ] XSS payloads for url fields
 - [ ] XSS payloads for number fields
 - [ ] XSS payloads for a href
+- [x] XSS payloads for markdown 
 - [ ] XSS for anker 
 - [ ] XSS for open-redirect
 
