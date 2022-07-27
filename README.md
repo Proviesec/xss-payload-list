@@ -12,8 +12,10 @@
 
 If you have any XSS payload, just create a PullRequest. 
 
-# Write-Ups 
+# Write-Ups / Tutorials
+https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 https://medium.com/p/92ac1180e0d0
+
 
 # My love polyglot
 ```
