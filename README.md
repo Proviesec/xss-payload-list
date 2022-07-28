@@ -31,6 +31,7 @@ jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onm
 - [ ] XSS for anker 
 - [ ] XSS for open-redirect
 
+
 # File Descriptions
 
 - XSS-polyglot.txt
@@ -56,7 +57,7 @@ Rules To Find XSS
     
 6: Testing For Event Handlers
     
-7 : Input Less Common Event Handlers
+7: Input Less Common Event Handlers
     
 8: Testing With SRC Attrubute
     
