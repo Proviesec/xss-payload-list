@@ -27,6 +27,8 @@ jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onm
 
 - [ ] XSS payloads for url fields
 - [x] XSS payloads for onfocus
+- [ ] XSS payloads for title
+- [ ] XSS payloads for javascript fields
 - [ ] XSS payloads for number fields
 - [ ] XSS payloads for a href
 - [x] XSS payloads for markdown 
