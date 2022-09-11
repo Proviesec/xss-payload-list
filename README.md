@@ -40,6 +40,7 @@ jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onm
 
 # File Descriptions
 
+
 - XSS-polyglot.txt
 A JavaScript Polyglot is a Cross Site Scripting (XSS) vector that is executable within various injection contexts in its raw form, or a piece of code that can be executed in multiple contexts in the application.
 
