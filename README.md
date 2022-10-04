@@ -36,6 +36,7 @@ jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onm
 - [x] XSS payloads for markdown 
 - [ ] XSS for anker 
 - [ ] XSS for open-redirect
+- [ ] cloudflare bypass 
 
 
 # File Descriptions
