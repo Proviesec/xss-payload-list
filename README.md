@@ -30,6 +30,7 @@ jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onm
 - [x] XSS payloads for onfocus
 - [ ] XSS payloads for title
 - [x] XSS payloads without alert
+- [ ] XSS payloads for base64
 - [ ] XSS payloads without script tag
 - [ ] XSS payloads for javascript fields
 - [ ] XSS payloads for number fields
