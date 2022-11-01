@@ -1,2 +1,3 @@
 "<iframe/src=javascript:confirm(1)"
 "javascript:alert('XSS');"
+"alert(1);"
