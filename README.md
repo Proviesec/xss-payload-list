@@ -74,8 +74,8 @@ Rules To Find XSS
 9: Testing With Action Attrubute
     
 10: Injecting HTML 5 Based Payload
-    
 
+    
 
 ## Reports 
 
