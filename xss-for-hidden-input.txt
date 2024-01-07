@@ -1,0 +1,2 @@
+y" popover id=x onbeforetoggle=alert(1)>
+<input type="hidden" value="y" popover id=x onbeforetoggle=alert(1)>
